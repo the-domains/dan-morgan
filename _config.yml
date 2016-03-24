@@ -1,4 +1,4 @@
-name: Dan Morgan
+name: DJJMorgan
 favicon: null
 layout_spectrum: 0.2634717442560941
 typography_spectrum: 0.41027276148088276
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#f1feec'
+    - '#180016'
+    - '#99bdd3'
+    - '#6072a2'
+    - '#3f395d'
   brandStrength: 0.11548705166205764
   lightness: 0.19051319058053195
   saturation: 0.8546235831454396
