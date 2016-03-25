@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DJJMorgan]]></title>
         <description><![CDATA[DJJMorgan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dan-morgan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 23:54:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 23:59:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dan-morgan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c76a47a8-b181-438d-a1b3-418f89036211.jpg">]]></description>
+            <link>https://thegrid.ai/dan-morgan/2104ea51-b6cf-4b1c-84b0-21779ef4a4da/index.html</link>
+            <guid isPermaLink="false">2104ea51-b6cf-4b1c-84b0-21779ef4a4da</guid>
+            <pubDate>Thu, 24 Mar 2016 23:58:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc81b9f-eaaa-4ff1-b7b5-208f52589b6a.jpg">]]></description>
-            <link>undefined5c2209fa-0c80-48b6-9b88-43b77b8870e0/index.html</link>
+            <link>https://thegrid.ai/dan-morgan/5c2209fa-0c80-48b6-9b88-43b77b8870e0/index.html</link>
             <guid isPermaLink="false">5c2209fa-0c80-48b6-9b88-43b77b8870e0</guid>
             <pubDate>Thu, 24 Mar 2016 23:53:35 GMT</pubDate>
         </item>
